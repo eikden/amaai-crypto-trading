@@ -35,16 +35,6 @@ An advanced AI-powered trading system that combines **multi-agent coordination**
 - **Advanced Analytics**: Technical analysis with TA-Lib integration
 - **Secure Configuration**: Environment-based API key management
 
-## 🎬 Demo Screenshots
-
-### Trading Dashboard
-![Trading Dashboard](docs/dashboard.png)
-
-### Sentiment Analysis
-![Sentiment Analysis](docs/sentiment.png)
-
-### Performance Analytics
-![Performance Analytics](docs/performance.png)
 
 ## 📋 Prerequisites
 
